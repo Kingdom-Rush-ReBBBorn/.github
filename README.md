@@ -17,12 +17,14 @@
 Add 28 towers
 - 8 KRF T4 (KM5)
 - 20 KRO T1-4 (KM5)
+
 Add KRF and KRO star upgrades stacked (KM5)
 
 ---
 ### 2 - ReBBBalanced
 Add Impossible difficulty (Voduke)
   - icon (Red Warrior)
+
 Rework templates balancing (Voduke)
 
 Remove 12 towers
@@ -131,12 +133,14 @@ Fix bugs (MaxSpringer)
 Add 28 towers
 - 8 KRF T4 (KM5)
 - 20 KRO T1-4 (KM5)
+
 Add KRF and KRO star upgrades stacked (KM5)
 
 ---
 ### 2 - ReBBBalanced
 Add Impossible difficulty (Voduke)
   - icon (Red Warrior)
+
 Rework templates balancing (Voduke)
 
 Remove 12 towers
