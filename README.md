@@ -1,17 +1,17 @@
 # **Updates**
 - [Kingdom Rush ReBBBorn](#Kingdom-Rush-ReBBBorn)
-  - [1 - All Towers](#)
-  - [2 - ReBBBalanced](#)
+  - [1 - All Towers](#1---All-Towers)
+  - [2 - ReBBBalanced](#2---ReBBBalanced)
   - [2.1 - Custom levels](#)
-  - [3 - All Towers Quality of life](#)
-  - [4 - Furious Assault campaign All Towers Restored content Quality of life And more](#)
+  - [3 - All Towers Quality of life](#All-Towers-Quality-of-life)
+  - [4 - Furious Assault campaign All Towers Restored content Quality of life And more](#4---Furious-Assault-campaign-All-Towers-Restored-content-Quality-of-life-And-more)
   - [4.1 - Furious Assault All Towers](#)
 - [Kingdom Rush Frontiers ReBBBorn](#Kingdom-Rush-Frontiers-ReBBBorn)
-  - [1 - All Towers](#)
-  - [2 - ReBBBalanced](#)
+  - [1 - All Towers](#1---All-Towers-1)
+  - [2 - ReBBBalanced](#2---ReBBBalanced-1)
 - [Kingdom Rush Origins ReBBBorn](#Kingdom-Rush-Origins-ReBBBorn)
-  - [1 - All Towers](#)
-  - [2 - ReBBBalanced](#)
+  - [1 - All Towers](#1---All-Towers-2)
+  - [2 - ReBBBalanced](#2---ReBBBalanced-2)
 ## Kingdom Rush ReBBBorn
 ### 1 - All Towers
 Add 28 towers
