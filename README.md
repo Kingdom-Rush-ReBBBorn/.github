@@ -1,15 +1,15 @@
 # **Updates**
-- [Kingdom Rush ReBBBorn](#Kingdom-Rush)
+- [Kingdom Rush ReBBBorn](#Kingdom-Rush-ReBBBorn)
   - [1 - All Towers](#)
   - [2 - ReBBBalanced](#)
   - [2.1 - Custom levels](#)
   - [3 - All Towers Quality of life](#)
   - [4 - Furious Assault campaign All Towers Restored content Quality of life And more](#)
   - [4.1 - Furious Assault All Towers](#)
-- [Kingdom Rush Frontiers ReBBBorn](#Kingdom-Rush-Frontiers)
+- [Kingdom Rush Frontiers ReBBBorn](#Kingdom-Rush-Frontiers-ReBBBorn)
   - [1 - All Towers](#)
   - [2 - ReBBBalanced](#)
-- [Kingdom Rush Origins ReBBBorn](#Kingdom-Rush-Origins)
+- [Kingdom Rush Origins ReBBBorn](#Kingdom-Rush-Origins-ReBBBorn)
   - [1 - All Towers](#)
   - [2 - ReBBBalanced](#)
 ## Kingdom Rush ReBBBorn
@@ -45,10 +45,13 @@ Add 9 KRV towers (MaxSpringer)
 - Specters Mausoleum (art rework by MaxSpringer, code by MaxSpringer)
 - Goblirang (art rework by MaxSpringer, code by MaxSpringer)
 - Bone Flingers (art rework by MaxSpringer, code by MaxSpringer)
+
 Add KRF, KRO & KRV towers in Encyclopedia (MaxSpringer, fifu)
 - Now Encyclopedia have sections (fifu)
+
 Replace ImpossiBBBle difficulty icon (MaxSpringer)
 - icon (Plague Knight)
+
 Fix star upgrades issues (MaxSpringer, fifu)
 
 Fix bugs (MaxSpringer)
@@ -61,6 +64,7 @@ Add 4 levels (MaxSpringer)
 - 3 Furious Assault campaign (MaxSpringer)
   - City of Lozagon **-** Argent Lake **-** Cursed Beach
     - Levels background images (MaxSpringer) - Levels campaign waves (MaxSpringer) - Levels heroic and iron waves (vrooomcar, Voduke) - Loading screen (PaintBull) - Comic for the end of the last level of the campaign (MaxSpringer)
+
 Add 28 towers (MaxSpringer)
 - 24 KRF and KRO T1-3 (MaxSpringer)
   - 3 × 2 Archer, 3 × 2 Mage, 3 × 2 Artillery and 3 × 2 Barracks
@@ -70,16 +74,19 @@ Add 28 towers (MaxSpringer)
 - 2 Furious Assault (MaxSpringer)
   - Time Wizard (fanart by Aftandil, code and art by MaxSpringer, voice acting by King Rexy)
   - Steam Trooper (code and art by MaxSpringer, voice acting by PaintBull)
+
 Add 2 heroes (MaxSpringer)
 - 1 Furious Assault (MaxSpringer)
   - Viper (fanart by Valcedon, code by MaxSpringer, voice acting by Voduke, portrait art by EricX)
 - 1 lonely (fifu, MaxSpringer)
   - Voltaire (code by fifu, art by Plague Knight)
+
 Add 11 Achievements (MaxSpringer, Voduke, Lin)
 - ReBBBalanced
   - Tryhard
 - Furious Assault
   - We're rich! **-** Spears shall be shaken! **-** Goblin Slayer **-** Do you believe in gravity? **-** Shields shall be splintered! **-** 99 Luftballoons **-** So it's the same type of stand... **-** Let it Die! **-** I hate sand **-** Gently Weeps
+
 Add 6 restored content (MaxSpringer)
 - 3 Flash version
   - Soul drain ability for Vez'nan (MaxSpringer)
@@ -90,6 +97,7 @@ Add 6 restored content (MaxSpringer)
 - 2 Mobile version
   - Bag items (MaxSpringer, fifu, danthegable)
   - Shop (MaxSpringer, fifu, danthegable)
+
 Add 5 Quality of life (MaxSpringer, fifu)
 - Special towers in the Encyclopedia (MaxSpringer)
 - Notifications of towers unlocking (MaxSpringer)
